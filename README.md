@@ -45,7 +45,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/VinayakaHk/web-server
+    $ git clone https://github.com/VinayakaHk/web-server.git
     $ cd web-server
     $ yarn install
 

@@ -27,3 +27,4 @@ weatherform.addEventListener("submit", (e) => {
     }
   );
 });
+
